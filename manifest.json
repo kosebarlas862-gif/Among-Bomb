@@ -2,7 +2,7 @@
   "name": "Among Bomb",
   "short_name": "Among Bomb",
   "description": "Among Bomb — klasik roller, sabotaj ve bomba savaşı içeren çok oyunculu parti oyunu.",
-  "start_url": "./Among_Bomb-10-1.html",
+  "start_url": "./index.html",
   "scope": "./",
   "display": "fullscreen",
   "orientation": "landscape",
