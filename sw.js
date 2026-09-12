@@ -9,7 +9,7 @@ const CACHE_NAME = 'among-bomb-' + CACHE_VERSION;
 // Dosya adların farklıysa burayı kendine göre düzenle.
 const CORE_ASSETS = [
   './',
-  './Among_Bomb-10-1.html',
+  './index.html',
   './manifest.json',
   './icon-192.png',
   './icon-512.png',
